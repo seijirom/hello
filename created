@@ -8,5 +8,6 @@ files:
 - effectorboardtop_kicad.bak
 - effectorboardtop_kicad.pro
 - effectorboardtop_kicad.sch
+- pax_global_header
 - post_unzip.rb
 - test.txt
